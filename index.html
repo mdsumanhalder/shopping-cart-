@@ -1,0 +1,87 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vanilla JS Project</title>
+    <!-- font awesome  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <!-- cutom css -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- navbar -->
+    <nav class="navbar">
+        
+        <div class="navbar-center center">
+            <span>SpincyHut</span>
+            <span class="nav-icon-mobile">
+                <i class="fas fa-bars"></i>
+            </span>
+                <ul class="nav__list">
+                    <li class="nav__item">
+                        <a href="#header" class="nav__link scroll-link">Home</a>
+                    </li>
+                    <li class="nav__item">
+                        <a href="#category" class="nav__link scroll-link">Products</a>
+                    </li>
+                  
+                    <li class="nav__item">
+                        <a href="#contact" class="nav__link scroll-link">Contact</a>
+                    </li>
+                </ul>
+            <div class="cart-btn">
+                <span class="nav-icon">
+                    <i class="fas fa-cart-plus"></i>
+                </span>
+                <div class="cart-items">0</div>
+            </div>
+        </div>
+    </nav>
+    <!-- end of navbar  -->
+
+    
+
+    <!-- products  -->
+    <section class="products" id="category">
+        <div class="section-title">
+           <h2>list of products</h2> 
+        </div>
+        <div class="products-center">
+            
+        </div>
+    </section>
+    <!-- end of products  -->
+    <!-- cart  -->
+    <div class="cart-overly">
+        <div class="cart">
+            <span class="close-cart">
+                <i class="fas fa-window-close"></i>
+            </span>
+            <h2>your cart</h2>
+            <div class="cart-content">
+                
+            </div>
+            <div class="cart-footer">
+                <h3>your total :$ <span class="cart-total">0</span></h3>
+                <button class="clear-cart banner-btn">clear cart</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- end of cart  -->
+
+
+    <!-- footer -->
+    <footer class="footer">
+        <div class="row">
+            <div class="content">
+                <h2 class="text-1">Copyright © 2020 Suman <span>- All Rights Reserved</span>
+                </h2>
+            </div>
+        </div>
+    </footer>
+    <!-- footer end-->
+
+    <script src="app.js"></script>
+</body>
+</html>

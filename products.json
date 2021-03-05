@@ -1,0 +1,117 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Black Cardman",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/black-cardman.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Red Chili pepper",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/Chilli-pepper.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Black Cardamom",
+        "price": 18.99,
+        "image": { "fields": { "file": { "url": "./images/Cloves.jpg"  } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Cumin Seed",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/Cumin-seed.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Fresh Ginger",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/Fresh-ginger.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Fresh tamarind",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/Fresh-tamarind.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Garam Masla",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "./images/Garam-masla.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Garlic",
+        "price": 8.99,
+        "image": { "fields": { "file": { "url": "./images/Garlic.jpg" } } }
+      }
+    },
+      {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": " Fresh Green Chili",
+        "price": 20.99,
+        "image": { "fields": { "file": { "url": "./images/Green-chili.jpg" } } }
+      }
+    },
+      {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Mustard Seed",
+        "price": 16.99,
+        "image": { "fields": { "file": { "url": "./images/Muatard-seed.jpg" } } }
+      }
+    },
+      {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Nutmeg",
+        "price": 26.99,
+        "image": { "fields": { "file": { "url": "./images/Nutmeg.jpg" } } }
+      }
+    },
+      {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Red Onion",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/Red-onion.jpg" } } }
+      }
+    },
+      {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "Saffron",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/Saffron.jpg" } } }
+      }
+    },
+      {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "Turmeric",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/Turmeric.jpg" } } }
+      }
+    }
+  ]
+}
+
