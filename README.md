@@ -11,4 +11,4 @@
 ### people can remove single item
 ### people can increase quantity of item
 ### people can remove all item by clicking clear cart button
-### Most interesting thing is when people add to cart item you will be save in local storage .so item will not go away until they remove from cart when they refresh the website.
+### Most interesting thing is when people add to cart item it will save in local storage .so item will not go away until they remove from cart when they refresh the website.
